@@ -133,8 +133,8 @@ main {
 }
 
 hr {
-    border-top: 1px solid 3a3a3a;
-    margin-top: 5px 0;
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
 }
 
 #benefits-physical > div, #benefits-mental > div {
